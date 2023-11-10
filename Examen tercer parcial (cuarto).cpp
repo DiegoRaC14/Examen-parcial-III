@@ -46,7 +46,7 @@ int main() {
     fclose(archivoEntrada);
     fclose(archivoSalida);
 
-    printf("Operación completada con éxito.\n");
+    printf("Todo esta viento en popa.\n");
 
     return 0;
 }
